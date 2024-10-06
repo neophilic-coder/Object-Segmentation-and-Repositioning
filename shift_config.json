@@ -1,0 +1,17 @@
+[
+    {"file": "stool.jpeg", "x": 80, "y": 0},
+    {"file": "lamp.png", "x": -50, "y": 100},
+    {"file": "wall hanging.jpg", "x": 0, "y": -75},
+    {"file": "heart.png", "x": 180, "y": 10},
+    {"file": "pupil.png", "x": 0, "y": 45},
+    {"file": "throne.png", "x": 20, "y": 0},
+    {"file": "traffic_lights.png", "x": -90, "y":10},
+    {"file": "brain.png", "x":-85, "y":70},
+    {"file": "camp.png", "x":0, "y":-100},
+    {"file": "man.png", "x":20, "y":20},
+    {"file": "mug.png", "x":-100, "y":0},
+    {"file": "pen.png", "x": 10, "y":60},
+    {"file": "pillow.png", "x":-30, "y":270},
+    {"file": "statue.png", "x": 0, "y":-20},
+    {"file": "bagpack.jpg", "x":50, "y":35}
+  ]
